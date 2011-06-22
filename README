@@ -1,0 +1,8 @@
+1. git submodule update --init
+2. cd libusb
+3. make install
+4. cd ..
+5. make
+6. ./test
+ 
+
